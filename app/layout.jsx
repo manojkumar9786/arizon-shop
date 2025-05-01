@@ -5,7 +5,6 @@ import "./globals.css"
 export const metadata = {
   title: "Arizon Shop - Your one-stop destination for trendy fashion",
   description: "Your one-stop destination for trendy fashion, electronics, and home essentials",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({ children }) {
