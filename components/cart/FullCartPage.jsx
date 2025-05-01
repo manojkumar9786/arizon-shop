@@ -192,7 +192,7 @@ const FullCartPage = () => {
               </div>
 
               <div className="border-t pt-3 mt-3">
-                <div className="flex justify-between font-bold text-black.e">
+                <div className="flex justify-between font-bold text-black">
                   <span>Total</span>
                   <span>${totalAmount.toFixed(2)}</span>
                 </div>
